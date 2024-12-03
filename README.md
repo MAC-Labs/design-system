@@ -29,7 +29,7 @@ To get started with the design system, follow these steps:
 
 ## Support
 
-If you need help or have any questions, feel free to open an issue on GitHub or contact us at support@example.com.
+If you need help or have any questions, feel free to open an issue on GitHub
 
 ## FAQ
 
